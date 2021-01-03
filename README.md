@@ -19,6 +19,8 @@
 - [RAPy](https://github.com/LencoDigitexer/RAPy) - RAPy удаленное управление(Бот)
 - [GetContact_android](https://github.com/LencoDigitexer/GetContact_android) - популярное приложение на python kivy
 
+## ⚓️ Где меня найти
+[ВКонтакте](https://vk.com/id510166866), [Telegram](https://t.me/lencodigitexer), [GitHub](https://github.com/lencodigitexer/), [Instagram](https://www.instagram.com/protivogaser/), [Twitter](https://twitter.com/lencodigitexer), [Spotify](https://open.spotify.com/user/ok485jhjpy13vkujsfp4afp0m), [Yandex Music](https://music.yandex.ru/users/xaker.anonim/playlists), [DevSoft форум](https://devsoft.club/ledi/), [Блог в телеге](https://t.me/lencodigitexer_channel).
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lencodigitexer&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lencodigitexer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
