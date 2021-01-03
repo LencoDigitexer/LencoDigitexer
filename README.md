@@ -22,11 +22,33 @@
 ## ⚓️ Где меня найти
 [ВКонтакте](https://vk.com/id510166866), [Telegram](https://t.me/lencodigitexer), [GitHub](https://github.com/lencodigitexer/), [Instagram](https://www.instagram.com/protivogaser/), [Twitter](https://twitter.com/lencodigitexer), [Spotify](https://open.spotify.com/user/ok485jhjpy13vkujsfp4afp0m), [Yandex Music](https://music.yandex.ru/users/xaker.anonim/playlists), [DevSoft форум](https://devsoft.club/ledi/), [Блог в телеге](https://t.me/lencodigitexer_channel).
 
-## :shipit: Статистика github
-
+## 🚩 Статистика github
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lencodigitexer&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lencodigitexer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🛠 Мое вооружение
+Руки, голова, Python, Kotlin, Linux(70%), Git, Bitrix, VSCode
 
-
+## ⏱ История
+- 2021
+  - Создал [сайт](https://lencodigitexer.tk) про себя, чтобы рассортировать своё прошлое и отпустить его, чтобы идти к новым вершинам.
+ 
+#### Написал только то, что помню
+- 2020
+  - Сидел на ДО
+  - Написал [приложение с расписанием для колледжа](https://melkosoftcom.github.io/ip193/)
+  - Написал [приложение для Комсомола](https://melkosoftcom.github.io/ksm26/)
+  - Писал смсбомберы да всякие деанонимизующие штучки, но они не взлетали
+- 2019
+  - Поработал чуток в [Devhost Host](https://host.devsoft.club/)
+  - В целом, ничего не делал, т.к. был студентом и развлекался как мог
+  - Собственно, ушел из хостинга
+- 2018
+  - Решил сделать аналог кейлогера на Python
+  - Тем самым стал интересоваться ботами для ВК
+  - Интересовался хакерством
+  - Написал парочку потерянных хакерских тулкитов
+  - Появился на свет [VKGolos](https://github.com/LencoDigitexer/VKGolos)
+- 2017
+  - Олимпиадное программирование на c++
+  - "Как же вы меня **" или как я начал программировать для себя. Родился проект [TamagochiCat на c++](https://github.com/LencoDigitexer/TamagochiCat)
 
