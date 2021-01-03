@@ -2,6 +2,18 @@
 - Евсеенко Илья, 2003 года рождения  
 - Программист (с 2018 года)   
 
+## ✨ Увлечения и навыки
+Увлекался созданием ботов на python, переводил игры( [вот одна из них](https://github.com/LencoDigitexer/and-yet-it-hurt) ), пытался в андроид разработку(вроде успешно).
+
+## 🔥 Топ проектов
+- [UserApiVk](https://github.com/LencoDigitexer/UserApiVk) - Обёртка и описание VK API для python
+- [VKGolos](https://github.com/LencoDigitexer/VKGolos) - VKGolos отправка голосовых из mp3 ВК
+- [SMSBomber_android](https://github.com/LencoDigitexer/SMSBomber_android) - мобильная имплементация бомбера на python kivy
+
+
+## ☠️ Топ похороненных проектов
+- [RAPy](https://github.com/LencoDigitexer/RAPy) - RAPy удаленное управление(Бот)
+- [GetContact_android](https://github.com/LencoDigitexer/GetContact_android) - популярное приложение на python kivy
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lencodigitexer&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
