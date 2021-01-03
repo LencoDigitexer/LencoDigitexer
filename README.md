@@ -9,10 +9,10 @@
 - [UserApiVk](https://github.com/LencoDigitexer/UserApiVk) - Обёртка и описание VK API для python
 - [VKGolos](https://github.com/LencoDigitexer/VKGolos) - VKGolos отправка голосовых из mp3 ВК
 - [SMSBomber_android](https://github.com/LencoDigitexer/SMSBomber_android) - мобильная имплементация бомбера на python kivy
+- [Приложение Комсомола](https://melkosoftcom.github.io/ksm26/) - для города Ставрополь
 - [Приложение для расписания пар](https://melkosoftcom.github.io/ip193/) - для своей группы
 - [Сайт с расписание пар](https://melkosoftcom.github.io/rasp/ip193/) - для своей группы
 - [Приложение для расписания уроков](https://melkosoftcom.github.io/sch14/) - для школы
-- [Приложение Комсомола](https://melkosoftcom.github.io/ksm26/) - для города СТаврополь
 
 
 ## ☠️ Топ похороненных проектов
