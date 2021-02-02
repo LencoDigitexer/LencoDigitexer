@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lencodigitexer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lencodigitexer.tk
+  * I am lencodigitexer (https://keybase.io/lencodigitexer) on keybase.
+  * I have a public key ASDDXbaVzVlRodO9pse3DGbdxVCvglXgV20x8_OO2JdPDAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c35db695cd5951a1d3bda6c7b70c66ddc550af8255e0576d31f3f38ed8974f0c0a",
+      "host": "keybase.io",
+      "kid": "0120c35db695cd5951a1d3bda6c7b70c66ddc550af8255e0576d31f3f38ed8974f0c0a",
+      "uid": "6aabf403f6c435213389e08548627819",
+      "username": "lencodigitexer"
+    },
+    "merkle_root": {
+      "ctime": 1612245626,
+      "hash": "93484bef33f0ec3276797809ef64c565aaf7ef36b5055e3d22981777ab90e71fbe769a8cfb3800ec778e62bb6d139afd6c5e28395d311299fb94123632041bdb",
+      "hash_meta": "89308bfc3b3ae0f99b3bbefc329ce73aefd0dd0b90a43fd7545e82ad8e68bf75",
+      "seqno": 18983448
+    },
+    "service": {
+      "entropy": "ntS9CyC7xQd6TmzBX8PmMClf",
+      "hostname": "lencodigitexer.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1612245658,
+  "expire_in": 504576000,
+  "prev": "db331475375d4d1966fa87220137b1024e953e08673e7044a7ee5dc0a13682cd",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgw122lc1ZUaHTvabHtwxm3cVQr4JV4FdtMfPzjtiXTwwKp3BheWxvYWTESpcCBsQg2zMUdTddTRlm+ociATexAk6VPghnPnBEp+5dwKE2gs3EIFOf89Azy4yyiabsfdJlRBuQtiA1dK6QvPbDNy5ArReaAgHCo3NpZ8RAx5EqXSKGRwBUHAF744WozqPacQ8OycZgR2B5gEIi9K5QkhT+olUebE6fgaaTRKvc3G02/FTOhd2QTifgfynAAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBFkjyPWKdPW1CytDTITFaqNYi84FyC30RNaXrdkUuwFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lencodigitexer
+
+==================================================================
