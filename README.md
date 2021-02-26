@@ -5,7 +5,7 @@
 - Программист (с 2018 года)   
 
 ## ✨ Увлечения и навыки
-Увлекался созданием ботов на python, переводил игры( [вот одна из них](https://github.com/LencoDigitexer/and-yet-it-hurt) ), пытался в андроид разработку(вроде успешно).
+Увлекался созданием ботов на python, переводил игры( [вот одна из них](https://github.com/LencoDigitexer/and-yet-it-hurt) ), пытался в андроид разработку(успешно), моё хобби - писать на c++ алгоритмы и решать задачки.
 
 ## 🔥 Топ проектов
 - [UserApiVk](https://github.com/LencoDigitexer/UserApiVk) - Обёртка и описание VK API для python
@@ -28,7 +28,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lencodigitexer&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Мое вооружение
-Руки, голова, Python, Kotlin, Linux(70%), Git, Bitrix, VSCode
+Руки, голова, Python, Kotlin, Linux(90%), Git, Bitrix, VSCode, c++
 
 ## ⏱ История
 - 2021
