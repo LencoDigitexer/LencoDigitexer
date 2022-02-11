@@ -26,6 +26,8 @@
 ## 🚩 Статистика github
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lencodigitexer&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lencodigitexer)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠 Мое вооружение
 Руки, голова, Python, Kotlin, Linux(90%), Git, Bitrix, VSCode, c++
 
